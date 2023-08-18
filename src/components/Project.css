@@ -1,0 +1,41 @@
+
+.middle{
+    transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.imag {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+  }
+
+
+.container:hover .middle{
+    opacity:1;
+}
+.container:hover .img{
+    opacity:0.3;
+}
+.btn a{
+    text-decoration: none;
+    color:white;
+    
+}
+.btn a:hover{
+    color:inherit;
+    border:none;
+}
+.btn :hover{
+  
+color:blue;
+}
