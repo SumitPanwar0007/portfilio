@@ -46,7 +46,7 @@ function RecentProj() {
                   Get Code!
                 </button>
                 <button className="bg-[#3b7d88] rounded-lg px-4 p-2 ">
-                  <a href="https://spyoutube.netlify.app/" className="text-white visited:text-white">
+                  <a href="https://sumityoutubepro.netlify.app/" className="text-white visited:text-white">
                        See Live!
                   </a>
                 </button>
@@ -66,7 +66,7 @@ function RecentProj() {
                     Get Code!
                   </button>
                   <button className="bg-[#3b7d88] rounded-lg px-4 p-2 ">
-                  <a href="https://thewarehousegym.netlify.app/" className="text-white visited:text-white">
+                  <a href="https://sumitwarehouse.netlify.app/" className="text-white visited:text-white">
                        See Live!
                   </a>
                 </button>
